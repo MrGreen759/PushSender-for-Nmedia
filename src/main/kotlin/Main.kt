@@ -32,6 +32,6 @@ fun main() {
         .setToken(token)
         .build()
 
-//    FirebaseMessaging.getInstance().send(messageLike)
+    FirebaseMessaging.getInstance().send(messageLike)
     FirebaseMessaging.getInstance().send(messageNew)
 }
