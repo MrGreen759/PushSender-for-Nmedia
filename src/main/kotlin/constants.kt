@@ -1,0 +1,2 @@
+const val dbUrl = ""
+const val token = "f-WmfEEpSJK7NCnsB6Hj4R:APA91bHrGLtJtabn0PzM-_lVFbO-kXgHOXO7NhNCeYa4TtokL9KrdIOUKpD-JdZZR103_Ahjz7h6iJXVfzS51Y8yvnZS3g8msAbTv3EvmMqJ6qX6AjLkyPPmMeIRrvt6cftV2ss5XODa"
